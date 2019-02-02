@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1549138880 source:c:\users\dell\documents\c_c++ programes\cplusproject\colis.cpp
+	"Colis.h"
+
+1549138880 c:\users\dell\documents\c_c++ programes\cplusproject\colis.h
+	"Recommandes.h"
+
+1549139635 c:\users\dell\documents\c_c++ programes\cplusproject\recommandes.h
+	"Facteur.h"
+	"Habitant.h"
+	<iostream>
+
+1549139366 c:\users\dell\documents\c_c++ programes\cplusproject\facteur.h
+	<iostream>
+
+1549139622 c:\users\dell\documents\c_c++ programes\cplusproject\habitant.h
+	"ZoneGeographique.h"
+	<iostream>
+
+1549139691 c:\users\dell\documents\c_c++ programes\cplusproject\zonegeographique.h
+	"Facteur.h"
+	<iostream>
+
+1549138880 source:c:\users\dell\documents\c_c++ programes\cplusproject\lettre.cpp
+	"Lettre.h"
+
+1549138880 c:\users\dell\documents\c_c++ programes\cplusproject\lettre.h
+	"Recommandes.h"
+
+1549146912 source:c:\users\dell\documents\c_c++ programes\cplusproject\main.cpp
+	<iostream>
+	"Facteur.h"
+	"ZoneGeographique.h"
+	"Habitant.h"
+	"Recommandes.h"
+	"Lettre.h"
+	"Colis.h"
+	<windows.h>
+	<string>
+	<sstream>
+	"delete.h"
+	"User.h"
+	"Logs.h"
+	"mysql.h"
+
+1549146306 c:\users\dell\documents\c_c++ programes\cplusproject\delete.h
+	<iostream>
+
+1549148051 source:c:\users\dell\documents\c_c++ programes\cplusproject\cryptage.cpp
+	"cryptage.h"
+	<iostream>
+	<string>
+
+1547639080 c:\users\dell\documents\c_c++ programes\cplusproject\cryptage.h
+	<iostream>
+
+1549147114 source:c:\users\dell\documents\c_c++ programes\cplusproject\delete.cpp
+	"delete.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	"cryptage.h"
+	"mysql.h"
+	"Logs.h"
+
+1549139544 source:c:\users\dell\documents\c_c++ programes\cplusproject\facteur.cpp
+	"Facteur.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	"cryptage.h"
+	"mysql.h"
+
+1547638678 source:c:\users\dell\documents\c_c++ programes\cplusproject\habitant.cpp
+	"Habitant.h"
+	"ZoneGeographique.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	"cryptage.h"
+	"mysql.h"
+
+1549139144 source:c:\users\dell\documents\c_c++ programes\cplusproject\recommandes.cpp
+	"Recommandes.h"
+	"Facteur.h"
+	"Habitant.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	"cryptage.h"
+	"mysql.h"
+
+1547638826 source:c:\users\dell\documents\c_c++ programes\cplusproject\zonegeographique.cpp
+	"ZoneGeographique.h"
+	"Facteur.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	"cryptage.h"
+	"mysql.h"
+
+1549145674 source:c:\users\dell\documents\c_c++ programes\cplusproject\logs.cpp
+	"Logs.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	"cryptage.h"
+	"mysql.h"
+
+1549141979 c:\users\dell\documents\c_c++ programes\cplusproject\logs.h
+	<iostream>
+
+1549141863 source:c:\users\dell\documents\c_c++ programes\cplusproject\user.cpp
+	"User.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<sstream>
+	"cryptage.h"
+	"mysql.h"
+
+1549141382 c:\users\dell\documents\c_c++ programes\cplusproject\user.h
+	<iostream>
+
